@@ -34,7 +34,7 @@ Follow these steps to use the script:
 6. **Run the Script**
     - Execute the script using Python:
     ```bash
-    python script_name.py
+    python pexels.py
     ```
 
 ### Adjusting Number of Downloads
