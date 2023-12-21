@@ -1,4 +1,4 @@
-## Pexels Harvester 
+## Pexels-Video-Harvester 
 
 This script allows you to download high-definition (HD) resolution videos from Pexels using their API.
 
